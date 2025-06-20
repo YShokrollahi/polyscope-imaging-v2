@@ -1,0 +1,26 @@
+# Log files
+*.log
+counter.log
+jamie-debug.log
+process.log
+upload.log
+processed_jobs.log
+jobs.log
+
+# Job files
+*.job
+jobs/
+
+# System files
+.DS_Store
+*/.DS_Store
+
+# Large files
+*.tif
+*.png
+*.jpg
+*.zip
+uploads/
+
+# Logs directory
+logs/
